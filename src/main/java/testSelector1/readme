@@ -1,0 +1,6 @@
+这一版本的区分                 慢慢来  知道很难 但是慢慢来
+boss只是 负责accept     //注意  这里是硬代码 sts[o]作为boss 其他两个作为worker
+boss和work组
+
+这么写很勉强 我们实际需要多个boss ，能够监听多个端口 ，然后这些fd,往后面的worker 分
+an
